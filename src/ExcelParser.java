@@ -4,7 +4,7 @@ import java.io.IOException;
 import jxl.Cell;
 import jxl.Sheet;
 import jxl.Workbook;
-
+// Execl Parsing class to read and pick up data and return it as an array
 public class ExcelParser {
 	private String filePath;
 	private String[][] loginDataArray;
